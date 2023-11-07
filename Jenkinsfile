@@ -50,5 +50,5 @@ pipeline {
    //    always {
    //       sh(script: 'docker compose down')
    //    }
-   // }
+   }
 }
